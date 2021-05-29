@@ -1,2 +1,2 @@
 # bet-angular
-Created with CodeSandbox
+Created with Angular
